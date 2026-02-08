@@ -38,6 +38,9 @@ Preview
 ![Footer](Footer.png)
 These screenshots represent different sections of the SkillSphere website and demonstrate my progress in frontend development.
 
+live demo
+ https://kiran-student.github.io/SkillSphere/
+ 
 Acknowledgement
 This is my **first GitHub repository**, and I am actively learning and improving.
 If you like this project, feel free to star it!
