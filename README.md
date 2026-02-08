@@ -36,6 +36,7 @@ Preview
 ![Features](Feature.png)
 ![Dashboard](Feature_2.png)
 ![Footer](Footer.png)
+These screenshots represent different sections of the SkillSphere website and demonstrate my progress in frontend development.
 
 Acknowledgement
 This is my **first GitHub repository**, and I am actively learning and improving.
