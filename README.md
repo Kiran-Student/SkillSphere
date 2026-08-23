@@ -39,7 +39,7 @@ Preview
 These screenshots represent different sections of the SkillSphere website and demonstrate my progress in frontend development.
 
 live demo
- https://kiran-student.github.io/SkillSphere/
+https://skill-sphere-hu973kk8h-harinkhedekiran19-4177s-projects.vercel.app
  
 Acknowledgement
 This is my **first GitHub repository**, and I am actively learning and improving.
